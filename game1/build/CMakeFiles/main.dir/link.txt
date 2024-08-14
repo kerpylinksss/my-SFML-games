@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.dir/src/main.cpp.o -o bin/main  -Wl,-rpath,/home/asher_alex/sfml-course/game1/build/lib lib/libpers.so /usr/lib64/libsfml-graphics.so.2.6.1 /usr/lib64/libsfml-window.so.2.6.1 /usr/lib64/libsfml-system.so.2.6.1 

@@ -1,0 +1,4 @@
+/home/asher_alex/sfml-course/game1/build/CMakeFiles/pers.dir
+/home/asher_alex/sfml-course/game1/build/CMakeFiles/main.dir
+/home/asher_alex/sfml-course/game1/build/CMakeFiles/edit_cache.dir
+/home/asher_alex/sfml-course/game1/build/CMakeFiles/rebuild_cache.dir

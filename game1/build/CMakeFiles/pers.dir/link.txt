@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -shared -Wl,-soname,libpers.so -o lib/libpers.so CMakeFiles/pers.dir/src/pers.cpp.o  /usr/lib64/libsfml-graphics.so.2.6.1 /usr/lib64/libsfml-window.so.2.6.1 /usr/lib64/libsfml-system.so.2.6.1 
